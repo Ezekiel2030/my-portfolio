@@ -7,3 +7,7 @@ Hi, I'm Ezekiel! I am an aspiring DevOps professional and Video Editor. I believ
 - **Video Editing Assessment:** Professional narrative edit for Lead Editor
 
 [View my Project Details](projects.md)
+## Projects
+- **Git Basics:** Mastering the Command Line interface.
+- **DevOps Lab 1:** Setting up a local Linux environment.
+- **Video Editing Assessment:** Professional narrative edit
