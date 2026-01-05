@@ -11,3 +11,8 @@ Hi, I'm Ezekiel! I am an aspiring DevOps professional and Video Editor. I believ
 - **Git Basics:** Mastering the Command Line interface.
 - **DevOps Lab 1:** Setting up a local Linux environment.
 - **Video Editing Assessment:** Professional narrative edit
+---
+## 📧 Contact
+- **GitHub:** [Ezekiel2030](https://github.com/Ezekiel2030)
+- **Focus:** DevOps Engineering | Video Editing (DaVinci Resolve) 
+[View my Technical Skills](skills.md)
