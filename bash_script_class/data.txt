@@ -1,0 +1,1 @@
+echo "this was an interesting class"
